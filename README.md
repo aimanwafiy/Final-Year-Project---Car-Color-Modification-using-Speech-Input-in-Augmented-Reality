@@ -80,8 +80,6 @@ Users can customize the car using voice commands such as:
 🎥 **Watch the project demo here:**  
 👉 https://youtu.be/q6-kTyUIM1Y?si=Mw3xL-5rLEA5Wz0U
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q6-kTyUIM1Y?si=Mw3xL-5rLEA5Wz0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ---
 
 ## 📚 Academic Context
